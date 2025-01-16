@@ -1,0 +1,48 @@
+.box {
+  box-sizing: border-box;
+  width: 300px;
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
+}
+h3 {
+  margin-top: 0;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+img {
+  height: 100px;
+}
+
+button {
+  width: 70%;
+  padding: 10px;
+  border: none;
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 20px;
+  margin: 10px auto;
+}
+
+.text {
+  color: grey;
+  font-size: 12px;
+}
+
+a {
+  color: rgb(105, 105, 105);
+}
+
+.sub-text {
+  color: rgb(163, 162, 162);
+  font-size: 8px;
+}
